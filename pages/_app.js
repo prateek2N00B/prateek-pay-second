@@ -13,7 +13,7 @@ class MyApp extends App {
     // Set custom response headers
     if (ctx.res) {
       //ctx.res.setHeader('X-Custom-Header', 'Hello World');
-      ctx.res.setHeader('Link', '<https://prateekpay.netlify.app/payment-method-manifest.json>; rel="payment-method-manifest"');
+      ctx.res.setHeader('Link', '<https://prateek-pay-second.netlify.app/payment-method-manifest.json>; rel="payment-method-manifest"');
     }
 
     return { pageProps };
