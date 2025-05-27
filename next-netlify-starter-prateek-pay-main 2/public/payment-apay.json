@@ -1,0 +1,11 @@
+{
+    "related_applications": [{
+      "platform": "play",
+      "id": "in.amazon.mShop.android.shopping",
+      "min_version": "1",
+      "fingerprints": [{
+        "type": "sha256_cert",
+        "value": "7C:AC:39:19:37:98:1B:61:34:BD:CE:1F:D9:83:4C:25:31:81:F5:AB:F9:1D:ED:60:78:21:0D:0F:91:AC:E3:60"
+      }]
+    }]
+  }
