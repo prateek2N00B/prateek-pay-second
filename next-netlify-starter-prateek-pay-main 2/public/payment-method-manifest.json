@@ -1,4 +1,0 @@
-{
-    "default_applications": ["https://prateekpay.netlify.app/payment-apay.json"],
-    "supported_origins": ["https://prateekpay.netlify.app"]
-}
